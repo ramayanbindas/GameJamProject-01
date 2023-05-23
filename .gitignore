@@ -1,1 +1,8 @@
-ECHO is on.
+*.png
+*.jpg
+*.bmp
+*.jpge
+*.pnge
+*.PNG
+*.JPG
+__pycache__
